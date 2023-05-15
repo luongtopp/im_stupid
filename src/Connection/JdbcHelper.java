@@ -17,6 +17,8 @@ import java.sql.SQLException;
  * tuan da sua
  * @author User
  */
+
+//Tuấn đã sửa
 public class JdbcHelper {
     private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/test";
      private static final String DATABASE_USER_NAME = "root";
